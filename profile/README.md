@@ -1,12 +1,13 @@
-## Hi there 👋
+# Zukunft beginnt heute
+### Die digitale Revolution in der Gesundheitsversorgung
 
-<!--
+Willkommen bei vital.services, Ihrem Partner für wertorientierte eHealth-Anwendungen in Europa. Unsere mobilen Mehrwertapplikationen und -dienste unterstützen Gesundheitsdienstleister dabei, regionale Gesundheitsmodelle in einem gemeinsamen Ecosystem aufzubauen und zu gestalten.
 
-**Here are some ideas to get you started:**
+Unsere Priorität ist die Schaffung von höchstem Mehrwert für unsere Kunden. Aus diesem Grund setzen wir auf internationale Standards und interoperable Infrastrukturen, die eine nahtlose Integration mit anderen Systemen ermöglichen. Dadurch stellen wir sicher, dass Informationen eff
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Kontakt
+
+- Webseite: https://vital-services.de/
+- E-Mail: info@vital-services.de
+- Telefon: +49 341 56 56 510
+- Adresse: Dittrichring 4, 04109 Leipzig
